@@ -1,6 +1,6 @@
 List of famous mathematicians:
 
-Pythagoras
+Landau
 Issac Newtow
 Euclid
 Carl Friedrich 
