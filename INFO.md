@@ -5,3 +5,4 @@ Git is awesome.
 Ed Mir
 
 
+experimetn with amend
